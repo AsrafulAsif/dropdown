@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "365459459538",
+    "firebase_url": "https://nobanno-7262f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nobanno-7262f",
+    "storage_bucket": "nobanno-7262f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365459459538:android:8fb101df817a718d910c0b",
+        "android_client_info": {
+          "package_name": "com.example.addbazarhomepage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365459459538-nb4muf0rndpr752rlv377injg1n0juvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-VRIwoCZRU6J3AkGz_X_Sj2amiDXFLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365459459538-nb4muf0rndpr752rlv377injg1n0juvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365459459538:android:3e99d8761112dea0910c0b",
+        "android_client_info": {
+          "package_name": "com.example.dropdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365459459538-nb4muf0rndpr752rlv377injg1n0juvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-VRIwoCZRU6J3AkGz_X_Sj2amiDXFLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365459459538-nb4muf0rndpr752rlv377injg1n0juvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
